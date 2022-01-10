@@ -2,8 +2,8 @@
 
 ### Install dependencies
 ``` shell
-sudo apt install ffmpeg libsm6 libxext6
+sudo apt install python3 ffmpeg libsm6 libxext6
 ```
 ``` shell
-pip install opencv-contrib-python`
+python3 -m pip install opencv-contrib-python
 ```
